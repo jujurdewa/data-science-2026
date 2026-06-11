@@ -9,12 +9,15 @@ Profil Akademik
 **Program Studi: PJJ Informatika**
 
 **Motivasi Studi**
+
 Ketertarikan saya terhadap Data Science didasari oleh antusiasme dalam mengekstraksi pola tersembunyi dan wawasan strategis dari kumpulan data yang kompleks. Tujuan utama saya adalah membangun kapabilitas analitis komprehensif yang tidak hanya berbobot dalam riset akademis, tetapi juga solutif dan aplikatif di lingkungan profesional.
 
 **Pemahaman Bidang Ilmu**
+
 Secara konseptual, Data Science merupakan disiplin ilmu interdisipliner yang berfokus pada metodologi akuisisi, pemrosesan, dan transformasi data mentah menjadi actionable insights (informasi yang dapat ditindaklanjuti). Ekosistem keilmuan ini beroperasi melalui sinergi strategis antara beberapa pilar utama, yakni: statistika, matematika, komputasi pemrograman, machine learning, serta ketajaman bisnis (business acumen).
 
 **Penguasaan Instrumen & Teknologi (Tech Stack)**
+
 Untuk mengimplementasikan siklus analisis data, saya memanfaatkan ekosistem berbasis Python, yang ditunjang oleh pustaka (library) fungsional berikut:
 Pemrosesan & Komputasi Data: Pandas, NumPy
 Pemodelan Machine Learning: Scikit-learn
@@ -26,6 +29,7 @@ Berikut untuk link Projek yang saya buat:
 Pertemuan 1
 
 **Pengenalan Ekosistem Data Science dan Lingkungan Kerja Python**
+
 Pertemuan awal berfokus pada pemahaman fundamental Data Science dan siklus hidup analisis data. Materi mencakup pengenalan sintaks dasar pemrograman Python dan penyiapan lingkungan kerja komputasi interaktif (Jupyter Notebook). Ini menjadi pondasi esensial sebelum melakukan analisis yang lebih kompleks.
 
 https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan1_Jujur_Dewa_Pamungkas_250401020107%20(1).ipynb
