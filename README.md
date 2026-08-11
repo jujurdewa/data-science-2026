@@ -82,3 +82,43 @@ Menerapkan konsep dasar pemodelan prediktif menggunakan pustaka Scikit-learn. Ma
 
 https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan7_Jujur_Dewa_Pamungkas_250401020107.ipynb
 
+Pertemuan 9
+
+**Algoritma Klasifikasi (Bagian 1)**
+
+Pertemuan 9 membahas Algoritma Klasifikasi dalam Machine Learning. Berbeda dengan regresi (Pertemuan 7) yang memprediksi nilai kontinu, klasifikasi digunakan untuk memprediksi kategori diskret, seperti deteksi email spam, diagnosis penyakit, atau transaksi fraud.
+
+https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan9_Jujur_Dewa_Pamungkas_250401020107.ipynb
+
+Pertemuan 10
+
+**Algoritma Klasifikasi (Bagian 2)**
+
+Melanjutkan materi sebelumnya, Pertemuan 10 memperkenalkan ensemble learning, yaitu teknik menggabungkan banyak model (seperti Random Forest) untuk menghasilkan prediksi yang lebih akurat dan stabil. Pertemuan ini juga membahas cara menangani imbalanced dataset, yaitu kondisi di mana proporsi antar kelas dalam data sangat timpang.
+
+https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan10_Jujur_Dewa_Pamungkas_250401020107.ipynb
+
+Pertemuan 11
+
+**Unsupervised Learning: Clustering**
+
+Pertemuan 11 menandai transisi ke Unsupervised Learning, di mana algoritma mengelompokkan data berdasarkan strukturnya tanpa menggunakan label. Fokus utamanya adalah teknik Clustering melalui algoritma K-Means dan Hierarchical, serta penerapan Metode Elbow dengan scikit-learn untuk menentukan jumlah cluster (K) yang paling optimal.
+
+https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan11_Jujur_Dewa_Pamungkas_250401020107.ipynb
+
+Pertemuan 12
+
+**Asosiasi Data & Sistem Rekomendasi Dasar**
+
+Melanjutkan *Unsupervised Learning*, **Pertemuan 12** berfokus pada **Association Rule Mining** (*Market Basket Analysis*) menggunakan algoritma **Apriori** untuk menemukan pola transaksi berdasarkan metrik *Support, Confidence*, dan *Lift*. Selain itu, pertemuan ini juga memperkenalkan dasar **Sistem Rekomendasi** melalui pendekatan **Collaborative Filtering** dan **Content-Based Filtering** yang umum digunakan pada platform digital modern.
+
+https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan12_Jujur_Dewa_Pamungkas_250401020107.ipynb
+
+Pertemuan 13
+
+**Deep Learning dan NLP Dasar**
+
+Sebagai pengantar topik lanjutan, Pertemuan 13 memperkenalkan dua pilar utama AI modern: Deep Learning (Artificial Neural Network) dan Natural Language Processing (NLP) melalui pendekatan TF-IDF untuk analisis sentimen. Materi ini berfokus pada pemahaman konseptual yang menjadi fondasi dasar bagi teknologi AI terkini seperti ChatGPT dan BERT.
+
+https://github.com/jujurdewa/data-science-2026/blob/main/Pertemuan13_Jujur_Dewa_Pamungkas_250401020107.ipynb
+
